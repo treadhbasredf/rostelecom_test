@@ -66,6 +66,8 @@ test_registration.py - TC-19 – TC-22: регистрация нового по
 
 ### [Тест-кейсы](https://docs.google.com/spreadsheets/d/1-gq71aCcH6LmpK6deEXtazgsoied40NdEBcYD5umEmk/edit?usp=sharing)
 
+### [Обнаруженные дефекты](https://docs.google.com/spreadsheets/d/15kuWxDUetzV6Eenflk945ED_azQyIpuZRjExshpUnfY/edit?usp=sharing)
+
 ## При разработке тест-кейсов были применены следующие техники тест-дизайна:
 
 Классы эквивалентности
